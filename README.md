@@ -1,5 +1,5 @@
-Title/ Headline
-1 .Amazon-Sales-analysis (Interactive Dashboard Using Power BI)
+1.Title/ Headline
+Amazon-Sales-analysis (Interactive Dashboard Using Power BI)
 This Power BI project analyzes Amazon sales data to uncover key insights such as sales trends, top products, customer behavior, and revenue performance. Interactive dashboards help visualize and understand business performance at a glance.
 
 2 .Objective
@@ -43,6 +43,8 @@ The dataset is an Excel file containing historical Amazon sales records. It incl
 
 6.Demo Picture 
 Show the Dashboard look like
+[🔗 View Live Dashboard](https://github.com/anukhachikte/Amazon-Sales-analysis/blob/main/Snapshot%20of%20Dashboard.png)
+
 Example -https://github.com/anukhachikte/Amazon-Sales-analysis/blob/main/Snapshot%20of%20Dashboard.png
 
 
