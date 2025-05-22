@@ -41,6 +41,8 @@ The dataset is an Excel file containing historical Amazon sales records. It incl
 📂 Cleaned and Transformed Data – Using Power Query for efficient data preparation
 
 
-6 Demo Picture 
-https://github.com/anukhachikte/Amazon-Sales-analysis/blob/main/Snapshot%20of%20Dashboard.png
+6.Demo Picture 
+Show the Dashboard look like [Alt text](https://github.com/anukhachikte/Amazon-Sales-analysis)
+Example -(https://github.com/anukhachikte/Amazon-Sales-analysis/blob/main/Snapshot%20of%20Dashboard.png)
+
 
