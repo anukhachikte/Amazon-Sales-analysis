@@ -1,14 +1,15 @@
-# Amazon-Sales-analysis (Interactive Dashboard Using Power BI)
+Title/ Headline
+1# Amazon-Sales-analysis (Interactive Dashboard Using Power BI)
 This Power BI project analyzes Amazon sales data to uncover key insights such as sales trends, top products, customer behavior, and revenue performance. Interactive dashboards help visualize and understand business performance at a glance.
 
-##Objective
+2##Objective
 The objective of this project is to analyze Amazon sales data using Power BI to gain insights into sales performance, identify top-selling products, understand customer behavior, and support data-driven business decisions through interactive dashboards and visualizations.
 
 ##Purpose
 The purpose of this project is to transform raw Amazon sales data into meaningful insights using Power BI. It helps stakeholders monitor sales performance, track revenue growth, and make informed decisions to improve business strategies.
 
 
-##Technology Used
+3##Technology Used
 
 Power BI – For data visualization and dashboard creation
 
@@ -18,10 +19,10 @@ DAX (Data Analysis Expressions) – For creating measures and calculated columns
 
 Power Query – For data cleaning and transformation
 
-##About the Dataset
+4##About the Dataset
 The dataset is an Excel file containing historical Amazon sales records. It includes information such as order dates, product categories, sales revenue, profit, quantity sold, customer details, and shipping information. The data is used to analyze sales trends, performance metrics, and customer behavior.
 
-##Features and Highlights:
+5##Features and Highlights:
 
 📊 Interactive Dashboards – Visually rich dashboards with filters and slicers for dynamic analysis
 
@@ -38,4 +39,8 @@ The dataset is an Excel file containing historical Amazon sales records. It incl
 🔍 Drill-Down Capability – Ability to explore detailed insights with drill-through and drill-down features
 
 📂 Cleaned and Transformed Data – Using Power Query for efficient data preparation
+
+
+6 Demo Picture 
+https://github.com/anukhachikte/Amazon-Sales-analysis/blob/main/Snapshot%20of%20Dashboard.png
 
